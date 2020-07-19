@@ -6,6 +6,7 @@
   "viscosity": 0,
   "heatCapacity": 0.1,
   "explosiveness": 0.9,
-  "flameColor": "sky",
-  "color": "white"
+  "flameColor": "008888",
+  "effect": "melting",
+  "color": "FFFFFF"
 }
