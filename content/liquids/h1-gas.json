@@ -7,5 +7,5 @@
   "heatCapacity": 0.1,
   "explosiveness": 0.9,
   "flameColor": "sky",
-  "effect": "smoke"
+  "color": "white"
 }
