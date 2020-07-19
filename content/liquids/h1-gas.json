@@ -6,7 +6,7 @@
   "viscosity": 0,
   "heatCapacity": 0.1,
   "explosiveness": 0.9,
-  "flameColor": "00FFFF",
+  "flameColor": "00FFFF00",
   "effect": "none",
-  "color": "FFFFFF"
+  "color": "FFFFFF00"
 }
