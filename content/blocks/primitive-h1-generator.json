@@ -1,0 +1,28 @@
+{
+	"type": "GenericCrafter",
+	"name": "[green]H1[] generator",
+	"description": "Generating H1 from nothing",
+	"health": 2850,
+	"itemCapacity": 5,
+	"liquidCapacity": 12,
+	"outputLiquid": {"liquid": "h1-gas", "amount": 1},
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"hasLiquids": true,
+	"craftTime": 1,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 2.5,
+		"items": {
+			"items": [
+			]
+		}
+	},
+	"requirements": [
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.1,
+	"research": "melter"
+}
