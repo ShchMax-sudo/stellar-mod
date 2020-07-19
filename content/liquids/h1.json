@@ -7,6 +7,6 @@
   "heatCapacity": 0.5,
   "explosiveness": 0.9,
   "flameColor": "#5AC9FF",
-  "effect": "freeze",
+  "effect": "freezing",
   "color": "#FFFFFF"
 }
