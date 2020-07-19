@@ -1,0 +1,11 @@
+{
+  "name": "Hydrogenium-1",
+  "description": "Standart Hydrogenium gas",
+  "temperature": 0.5,
+  "flammability": 0.7,
+  "viscosity": 0,
+  "heatCapacity": 0.1,
+  "explosiveness": 0.9,
+  "flameColor": "sky",
+  "effect": "smoke"
+}

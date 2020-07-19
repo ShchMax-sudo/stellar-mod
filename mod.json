@@ -1,6 +1,6 @@
 {
-  name: "[yellow]Stellar[] mod",
-  author: "ShchMax",
-  description: "This mod are developing by [green] ShchMax[] and [red] Aleksey Zhivin[].",
-  version: "0.0.1"
+  "name": "[yellow]Stellar[] mod",
+  "author": "ShchMax",
+  "description": "This mod are developing by [green] ShchMax[] and [red] Aleksey Zhivin[].",
+  "version": "0.0.1"
 }
