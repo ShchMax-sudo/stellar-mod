@@ -1,0 +1,12 @@
+{
+  "name": "Liquid Hydrogenium-1",
+  "description": "Liquid stable isotope of hydrogenium",
+  "temperature": 0.2,
+  "flammability": 0.7,
+  "viscosity": 0.3,
+  "heatCapacity": 0.5,
+  "explosiveness": 0.9,
+  "flameColor": "#5AC9FF",
+  "effect": "freeze",
+  "color": "#FFFFFF"
+}
