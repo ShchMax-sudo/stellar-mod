@@ -8,6 +8,5 @@
   "explosiveness": 0.9,
   "flameColor": "#5AC9FF",
   "effect": "freezing",
-  "color": "#FFFFFF",
-  "lightColor": "#FFFFFF"
+  "color": "#FFFFFF"
 }
