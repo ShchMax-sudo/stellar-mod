@@ -1,0 +1,29 @@
+{
+	"type": "ChargeTurret",
+	"name": "BFG",
+	"description": "Big F*cking Gun",
+	"health": 1500,
+	"size": 5,
+	"reload": 400,
+	"range": 160,
+	"chargeTime": 30,
+	"chargeMaxDelay": 50,
+	"chargeEffects": 15,
+	"cooldown": 1
+	"recoil": 20
+	"powerUse": 40
+	"shootShake": 100
+	"shootEffect": "lancerLaserShoot"
+	"smokeEffect": "lancerLaserShootSmoke"
+	"chargeEffect": "lancerLaserCharge"
+	"chargeBeginEffect": "lancerLaserChargeBegin"
+	"shootType": "lancerLaser",
+	"inaccuracy": 0,
+	"rotatespeed": 12,
+	"requirements": [
+		{ "liquid": "h1", "amount": 65 },
+	],
+	"category": "turret"
+	"shootSound": "laser"
+	"research": "big-turret-1"
+}
