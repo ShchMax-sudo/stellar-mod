@@ -1,6 +1,6 @@
 {
 	"type": "GenericCrafter",
-	"name": "[green]H1[] generator",
+	"name": "[sky]Cryofluid[] generator",
 	"description": "Generating cryofluid from Liquid Hydrogenium-1",
 	"health": 2850,
 	"itemCapacity": 5,

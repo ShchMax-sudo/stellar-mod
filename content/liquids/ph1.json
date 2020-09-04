@@ -1,0 +1,12 @@
+{
+  "name": "Protium Plasma",
+  "description": "First termonuclear component",
+  "temperature": 1,
+  "flammability": 0,
+  "viscosity": 0,
+  "heatCapacity": 0.5,
+  "explosiveness": 0,
+  "effect": "melting",
+  "color": "#FFFFFF",
+  "lightColor": "#5AC9FF"
+}

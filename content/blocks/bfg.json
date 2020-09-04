@@ -18,9 +18,9 @@
 			"smokeEffect": "shootSmallSmoke",
 			"ammoMultiplier": 1
 		},
-		
+
 	},
-	
-	"category": "turret"
+
+	"category": "turret",
 	"research": "salvo"
 }
