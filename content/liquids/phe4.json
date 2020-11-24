@@ -1,0 +1,12 @@
+{
+  "name": "Helium Plasma",
+  "description": "Alpha particle",
+  "temperature": 1,
+  "flammability": 0,
+  "viscosity": 0,
+  "heatCapacity": 0.2,
+  "explosiveness": 0,
+  "effect": "melting",
+  "color": "#F19287",
+  "lightColor": "#F19287"
+}

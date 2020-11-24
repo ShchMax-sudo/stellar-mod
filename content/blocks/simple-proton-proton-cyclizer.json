@@ -1,0 +1,32 @@
+{
+	"type": "GenericCrafter",
+	"name": "Simple proton-proton Cyclizer",
+	"description": "Generating Helium Plazma from 4 Proton Plazma",
+	"health": 100,
+	"liquidCapacity": 10,
+	"solid": true,
+	"outputLiquid": {
+		"liquid": "phe4",
+		"amount": 1
+	},
+	"size": 2,
+	"outputsPower": true,
+	"consumesPower": false,
+	"powerProduction": 6.6666666667,
+	"craftingTime": 0.25,
+	"hasItems": false,
+	"hasLiquids": true,
+	"craftTime": 1,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"liquid": {
+     "liquid": "ph1",
+     "amount": 4
+   }
+	},
+	"requirements": [
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.1
+}
