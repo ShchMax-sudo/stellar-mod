@@ -13,16 +13,16 @@
 	"outputsPower": true,
 	"consumesPower": false,
 	"powerProduction": 6,
-	"craftingTime": 2.5,
+	"craftingTime": 15,
 	"hasItems": false,
 	"hasLiquids": true,
-	"buildTime": 1,
+	"buildTime": 60,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
 		"liquid": {
-     "liquid": "ph1",
-     "amount": 4
-   }
+     		"liquid": "ph1",
+     		"amount": 4
+   		}
 	},
 	"requirements": [
 	],
